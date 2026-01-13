@@ -14,6 +14,8 @@ Educational repository for learning Transformers and Large Language Models.
 
 ### Presentation
 
+- **`Introduction_to_NLP.pptx`** - PowerPoint presentation containing theoretical foundation and information about NLP. Covers architecture, concepts, and key principles.
+
 - **`Transformers_LLM_Theory.pptx`** - PowerPoint presentation containing theoretical foundation and information about Transformers and LLMs. Covers architecture, concepts, and key principles.
 
 ## Getting Started
