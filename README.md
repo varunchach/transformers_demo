@@ -6,6 +6,8 @@ Educational repository for learning Transformers and Large Language Models.
 
 ### Notebooks
 
+- **`Introduction_to_NLP.ipynb`** - Comprehensive step-by-step tutorial covering Basics of NLP , Text processing , Vectorization techniques , Embeddings.
+  
 - **`transformers_demo_v0.ipynb`** - Comprehensive step-by-step tutorial covering Transformers and LLM fundamentals from raw text to AI-generated content. Includes 14 sequential sections on tokenization, embeddings, model inference, text generation, and practical applications.
 
 - **`Transformers_demo_v1.ipynb`** - Task-based tutorial covering NLP concepts using the transformers library, including tokenization strategies, embeddings, model inference, text generation, and semantic similarity.
